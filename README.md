@@ -1,3 +1,11 @@
+## Lighthouse screenshot
+- Performance
+- Accessibility
+- Best Practices
+- SEO
+<img width="1440" alt="Screenshot 2023-05-11 at 4 28 17 PM" src="https://github.com/yashmishra0207/maneuver-marketing-assignment/assets/67147761/a59cdab5-be74-4db7-bdcf-0d713a230274">
+
+
 ## Things implemented
 1. all the filenames use kebab-casing as the Google search engine treats a hyphen as a word separator therefore helping in seo
 2. keep in mind seo performance - check using lighthouse and add screenshot
